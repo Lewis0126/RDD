@@ -1,0 +1,11 @@
+	Driver demographic characteristics			
+Characteristics	Male	White	Age	Accident
+	(1)	(2)	(3)	(4)
+DUI	0.006	0.006	-0.14	-0.003
+	(0.006)	(0.005)	(0.164)	(0.004)
+				
+Mean	0.792	0.853	34.17	0.101
+Controls	No	No	No	No
+Observations 	89967	89967	89967	89967
+Robust standard erros in parenthesis				
+***p-value<0.01, **p-value<0.05,*p-value<0.1				
